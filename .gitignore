@@ -1,0 +1,6 @@
+# WordPress core files
+wp-config.php
+wp-content/uploads
+wp-content/cache
+node_modules
+vendor
