@@ -1,2 +1,2 @@
 git add .
-git commit -m "První commit – základní struktura projektu"
+git commit -m "Přidán WP-CLI sync skript"
